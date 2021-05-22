@@ -1,6 +1,6 @@
-# sedi_demo
+# Se-Di
 
-A simple note taking app.
+A simple note taking app. Currently in demo version.
 
 ## Getting Started
 
